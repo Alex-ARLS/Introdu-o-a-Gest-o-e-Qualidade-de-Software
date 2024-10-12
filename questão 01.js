@@ -12,3 +12,4 @@ function somarArrays(parametroArray) {
 }
 
 console.log(somarArrays([1, 2, 3, 4, 5]));
+module.exports = soma;

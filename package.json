@@ -1,0 +1,15 @@
+{
+  "name": "introdu-o-a-gest-o-e-qualidade-de-software",
+  "version": "1.0.0",
+  "main": "questão 01.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
